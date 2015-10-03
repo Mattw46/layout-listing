@@ -1,0 +1,170 @@
+body, html {
+	height: 100%;
+}
+
+body {
+	background: #cccccc;
+}
+
+#main {
+	width: 98%;
+	margin: auto;
+}
+
+#header {
+	background: white;
+	#width: 90%;
+	height: 225px;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+#logo {
+	background: #1591fe;
+	height: 150px;
+	color: white;
+	font-size: 30;
+	border-bottom-color: #18304b;
+	border-bottom-width: 20px;
+	border-bottom-style: solid;
+}
+
+#logo p {
+	width: 45%;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 40px;
+	text-align: center;
+	font-family: arial;
+	font-weight: bold;
+}
+
+#menu {
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+#menu a {
+	color: #666679;
+	text-decoration: none;
+}
+
+#menu a.item {
+	margin-left: 25px;
+}
+
+#menu a.selected {
+	color: white;
+	background: #18304b;
+	text-decoration: none;
+	padding: 12px;
+	border-radius: 5px;
+}
+
+#left-panel {
+	background: white;
+	width: 64%;
+	float: left;
+	height: auto;
+	border-radius: 5px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	
+}
+
+#left-body {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#left-body img {
+	height: 50px;
+	width: 50px;
+	padding-right: 15px;
+}
+
+#left-panel h4 {
+	color: #1591fe;
+	font-family: arial;
+	font-size: 30px;
+	margin-bottom: 19.9px;
+}
+
+#left-panel a {
+	color: #1591fe;
+	font-family: arial;
+	font-size: 20px;
+}
+
+#right-panel {
+	background: white;
+	width: 34%;
+	float: right;
+	height: 85vh;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+
+#right-body {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#right-panel h4 {
+	color: #1591fe;
+	font-family: arial;
+	font-size: 20px;
+}
+
+#right-panel #right-body h4 {
+	margin-bottom: 10.6px;	
+}
+
+#right-panel a {
+	color: white;
+	background: #1591fe;
+	text-decoration: none;
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 12px;
+	
+	
+}
+
+#right-panel img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+
+hr {
+	margin-top: 40px;
+	color: #cccccc;
+}
+
+#quote {
+	width: 255px;
+	margin-bottom: 30px;
+	font-size: 20px;
+	border-left-color: #18304b;
+	border-left-width: 5px;
+	border-left-style: solid;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#quote p {
+	padding-left: 20px;
+}
+
+#quote #name {
+	padding-left: 20px;
+	font-style: italic;
+	font-size: 15px;
+}
